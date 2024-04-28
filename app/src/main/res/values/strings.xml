@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">A3_21L-5799</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="click_to_sign_up">Click to sign up</string>
+    <string name="sign_up">Sign up</string>
+    <string name="re_enter_password">Re enter password</string>
+    <string name="phone_no">Phone no.</string>
+    <string name="email">Email</string>
+    <string name="add_data">Add data</string>
+    <string name="setting">Setting</string>
+    <string name="url">url</string>
+    <string name="todo">TODO</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="recycle_bin">Recycle bin</string>
+    <string name="to_view_recycle_bin_and_restore_data_click">To view recycle bin and restore data. Click</string>
+    <string name="to_logout">To logout</string>
+    <string name="logout">Logout</string>
+    <string name="delete_permanently">Delete Permanently</string>
+    <string name="restore_data">Restore data</string>
+</resources>
